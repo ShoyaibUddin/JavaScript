@@ -1,1 +1,2 @@
 - [Object](https://github.com/ShoyaibUddin/JavaScript/blob/main/Object.md)
+- [DOM](https://github.com/ShoyaibUddin/JavaScript/blob/main/Object.md)
