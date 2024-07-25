@@ -1,0 +1,1 @@
+- [Object](https://github.com/ShoyaibUddin/JavaScript/blob/main/Object.md)
