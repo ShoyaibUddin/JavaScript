@@ -24,6 +24,10 @@ document.getElementsByTagName(name)
 
 > In the example above, getElementById is a method, while innerHTML is a property.
 
+- querySelector() এখানে এখই রকমের জিনিসের প্রথম এলিমেন্ট টা ধরে।
+- querySelectorAll() এটার মাধ্যমে সব কয়টি এলিমেন্ট ধরে। ‍কিন্তু লুপের মাধ্যমে প্রতিটি তে style Add করতে হয়।
+  [Ref](https://youtu.be/HSi3WYjt12Q?t=1187)
+
 ## Changing HTML
 
 ```
@@ -61,3 +65,19 @@ setTimeout (function(){
 
 }, 2000);
 ```
+
+## Traversing DOM
+
+✅ .getElementById
+✅ .getElementsByClassName
+✅ .getElementsByTagName
+✅ .textContent
+✅ .innerText
+✅ .innerHTML
+✅ .querySelector
+✅ .querySelectorAll
+✅ .children
+✅ .parent
+✅ .closest
+✅ .nextElementSibling
+✅ .previousElementSibling

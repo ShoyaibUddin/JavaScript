@@ -15,7 +15,7 @@ Dom is a Document Object Model & Programming interface for HTML that defines HTM
 
 > P = Property
 > O = Object
-> E = Element
+> E = Event
 > M = Method
 
 Method মানে হলো Function
@@ -37,7 +37,7 @@ document.getElementById("example").innerHTML = "Hello World";
 
 উপরের Example এ Document হলে একটি Object
 
-.getElementById একটি মেথট বা ফাংশন
+.getElementById() একটি মেথট বা ফাংশন
 
 .innerHTML হলে একটি Property
 

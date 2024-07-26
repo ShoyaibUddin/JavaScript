@@ -4,3 +4,7 @@
 ```
 <input type="text" required>
 ```
+
+.innerHTML
+.textContent
+.innerText
