@@ -8,3 +8,20 @@
 .innerHTML
 .textContent
 .innerText
+
+### DOM Traversing
+
+.children
+.parentElementcl
+.closest
+.nextElementSibling
+.previousElementSibling
+
+getElementById
+getElementsByClassName
+getElementsByTagName
+textContent
+innerText
+innerHTML
+querySelector
+querySelectorAll

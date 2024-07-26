@@ -68,16 +68,29 @@ setTimeout (function(){
 
 ## Traversing DOM
 
-✅ .getElementById
-✅ .getElementsByClassName
-✅ .getElementsByTagName
-✅ .textContent
-✅ .innerText
-✅ .innerHTML
-✅ .querySelector
-✅ .querySelectorAll
-✅ .children
-✅ .parent
-✅ .closest
-✅ .nextElementSibling
-✅ .previousElementSibling
+✅ .getElementById<br>
+✅ .getElementsByClassName<br>
+✅ .getElementsByTagName<br>
+✅ .textContent<br>
+✅ .innerText<br>
+✅ .innerHTML<br>
+✅ .querySelector<br>
+✅ .querySelectorAll<br>
+✅ .children<br>
+✅ .parent<br>
+✅ .closest<br>
+✅ .nextElementSibling<br>
+✅ .previousElementSibling<br>
+
+## [Manipulate the DOM](https://youtu.be/NmInTfiUcw0)
+
+### Creating an element
+
+.createElement() <br>
+.className = <br>
+.setAttribute ('title', "red"); [ref](https://youtu.be/NmInTfiUcw0?t=334) <br>
+.insertBefore(); <br>
+.appendChild();এটায় অবশ্যই HTML এলিমেন্ট দিতে হবে<br>
+.append(); এটিতে টেক্স এলিমেন্ট দেয়া যায়।
+
+.append(মাল্টিপল প্যরামিটারের মাধ্যমে এলিমেন্ট দেওয়া যায়);
