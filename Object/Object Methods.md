@@ -164,3 +164,9 @@ for (const value of Object.values(myObj)) {
 
 > Object.values() মেথডটি কেবলমাত্র নিজস্ব এনামারেটেবল প্রপার্টিগুলোর মানকেই ফেরত দেয়, ইনহেরিট করা প্রপার্টিগুলোর মানকে নয়।
 > এই মেথডটি প্রপার্টির নামগুলো ফেরত দেয় না।
+
+# LWS
+
+- [Object.keys(ObjctName)](https://youtu.be/3sdpkFZUhlA?t=3906)
+- Object.values
+- [Object.entries](https://youtu.be/3sdpkFZUhlA?t=3970)
